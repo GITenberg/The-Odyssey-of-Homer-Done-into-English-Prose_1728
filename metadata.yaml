@@ -1,0 +1,44 @@
+_repo: The-Odyssey-of-Homer-Done-into-English-Prose_1728
+contributor:
+  translators:
+  - agent_name: Butcher, S. H. (Samuel Henry)
+    alias: Butcher, Samuel Henry
+    birthdate: 1850
+    deathdate: 1910
+    gutenberg_agent_id: '707'
+    url: http://www.gutenberg.org/2009/agents/707
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: See also PG#1727 and PG#3160
+gutenberg_bookshelf:
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homer -- Translations into English'
+- !lcsh 'Odysseus (Greek mythology)'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+title: The Odyssey of Homer, Done into English Prose
+url: http://www.gutenberg.org/ebooks/1728
